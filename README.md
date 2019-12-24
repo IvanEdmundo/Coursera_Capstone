@@ -22,6 +22,6 @@ The Toronto Census data was extracted from https://www.toronto.ca/city-governmen
 The Toronto postal codes was scraped from https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 
 ### Toronto census
-(https://github.com/IvanEdmundo/Coursera_Capstone/blob/master/Imagenes/TorontoCensus.png)
+![](https://github.com/IvanEdmundo/Coursera_Capstone/blob/master/Imagenes/TorontoCensus.png)
 
 
