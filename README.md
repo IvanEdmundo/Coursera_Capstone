@@ -21,7 +21,10 @@ To answer the business problem, we will use the Toronto Censs data set and the t
 The Toronto Census data was extracted from https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/
 The Toronto postal codes was scraped from https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 
-### Toronto census
+##### Toronto census data set
 ![](https://github.com/IvanEdmundo/Coursera_Capstone/blob/master/Imagenes/TorontoCensus.png)
+
+##### Toronto  data set from wikipedia
+![](https://github.com/IvanEdmundo/Coursera_Capstone/blob/master/Imagenes/TorontoLatLong.png)
 
 
