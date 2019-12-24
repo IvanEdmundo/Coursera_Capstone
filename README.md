@@ -11,7 +11,7 @@ Business Problem.  If the client wanted to open an Mexican Restaurant in Toronto
 
 ## Data
 
-To answer the business problem, we will use the Toronto Census and  the following factors have to be extracted from various data sources:
+To answer the business problem, we will use the Toronto Censs data set and the toronto neiborhoods data obtain by wikipedia.The following factors have to be extracted from the data sources:
 
 1)Population & Ethnic Distribution of Each Neighborhood (Toronto Census)
 2)Income Distribution of Each Neighborhood (Toronto Census)
@@ -19,4 +19,9 @@ To answer the business problem, we will use the Toronto Census and  the followin
 4)Number of Mexican Restaurants in Each Neighborhood (Foursquare API)
 
 The Toronto Census data was extracted from https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/
+The Toronto postal codes was scraped from https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+
+### Toronto census
+(https://github.com/IvanEdmundo/Coursera_Capstone/blob/master/Imagenes/TorontoCensus.png)
+
 
